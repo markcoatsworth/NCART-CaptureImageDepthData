@@ -163,20 +163,18 @@
  /usr/local/include/opencv2/contrib/openfabmap.hpp \
  /usr/include/c++/4.6/set /usr/include/c++/4.6/bits/stl_set.h \
  /usr/include/c++/4.6/bits/stl_multiset.h \
- ../OpenNI-2.1.0-x86/Include/OpenNI.h \
- ../OpenNI-2.1.0-x86/Include/OniPlatform.h \
- ../OpenNI-2.1.0-x86/Include/Linux-x86/OniPlatformLinux-x86.h \
+ OpenNI-2.1.0-x86/Include/OpenNI.h OpenNI-2.1.0-x86/Include/OniPlatform.h \
+ OpenNI-2.1.0-x86/Include/Linux-x86/OniPlatformLinux-x86.h \
  /usr/include/libio.h /usr/include/_G_config.h \
  /usr/include/i386-linux-gnu/bits/sys_errlist.h \
  /usr/include/i386-linux-gnu/bits/stdio.h \
  /usr/include/i386-linux-gnu/bits/stdio2.h \
- ../OpenNI-2.1.0-x86/Include/OniProperties.h \
- ../OpenNI-2.1.0-x86/Include/OniEnums.h \
- ../OpenNI-2.1.0-x86/Include/OniCAPI.h \
- ../OpenNI-2.1.0-x86/Include/OniCTypes.h \
- ../OpenNI-2.1.0-x86/Include/OniCEnums.h \
- ../OpenNI-2.1.0-x86/Include/OniCProperties.h \
- ../OpenNI-2.1.0-x86/Include/OniVersion.h /usr/include/curses.h \
+ OpenNI-2.1.0-x86/Include/OniProperties.h \
+ OpenNI-2.1.0-x86/Include/OniEnums.h OpenNI-2.1.0-x86/Include/OniCAPI.h \
+ OpenNI-2.1.0-x86/Include/OniCTypes.h \
+ OpenNI-2.1.0-x86/Include/OniCEnums.h \
+ OpenNI-2.1.0-x86/Include/OniCProperties.h \
+ OpenNI-2.1.0-x86/Include/OniVersion.h /usr/include/curses.h \
  /usr/include/ncurses_dll.h /usr/include/unctrl.h
 
 /usr/local/include/opencv2/opencv.hpp:
@@ -593,11 +591,11 @@
 
 /usr/include/c++/4.6/bits/stl_multiset.h:
 
-../OpenNI-2.1.0-x86/Include/OpenNI.h:
+OpenNI-2.1.0-x86/Include/OpenNI.h:
 
-../OpenNI-2.1.0-x86/Include/OniPlatform.h:
+OpenNI-2.1.0-x86/Include/OniPlatform.h:
 
-../OpenNI-2.1.0-x86/Include/Linux-x86/OniPlatformLinux-x86.h:
+OpenNI-2.1.0-x86/Include/Linux-x86/OniPlatformLinux-x86.h:
 
 /usr/include/libio.h:
 
@@ -609,19 +607,19 @@
 
 /usr/include/i386-linux-gnu/bits/stdio2.h:
 
-../OpenNI-2.1.0-x86/Include/OniProperties.h:
+OpenNI-2.1.0-x86/Include/OniProperties.h:
 
-../OpenNI-2.1.0-x86/Include/OniEnums.h:
+OpenNI-2.1.0-x86/Include/OniEnums.h:
 
-../OpenNI-2.1.0-x86/Include/OniCAPI.h:
+OpenNI-2.1.0-x86/Include/OniCAPI.h:
 
-../OpenNI-2.1.0-x86/Include/OniCTypes.h:
+OpenNI-2.1.0-x86/Include/OniCTypes.h:
 
-../OpenNI-2.1.0-x86/Include/OniCEnums.h:
+OpenNI-2.1.0-x86/Include/OniCEnums.h:
 
-../OpenNI-2.1.0-x86/Include/OniCProperties.h:
+OpenNI-2.1.0-x86/Include/OniCProperties.h:
 
-../OpenNI-2.1.0-x86/Include/OniVersion.h:
+OpenNI-2.1.0-x86/Include/OniVersion.h:
 
 /usr/include/curses.h:
 
